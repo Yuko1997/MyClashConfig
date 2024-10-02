@@ -1,3 +1,54 @@
+# IP-Attribution
+DOMAIN-SUFFIX,grpc.biliapi.net
+DOMAIN-SUFFIX,biliapi.com
+DOMAIN-SUFFIX,biliapi.net
+DOMAIN-SUFFIX,api.bilibili.com
+DOMAIN-SUFFIX,app.bilibili.com
+DOMAIN-SUFFIX,passport.bilibili.com
+DOMAIN-SUFFIX,passport.bilibili.cn
+DOMAIN-SUFFIX,account.bilibili.com
+DOMAIN-SUFFIX,club.bilibili.com
+DOMAIN-SUFFIX,data.bilibili.com
+DOMAIN-SUFFIX,biliimg.com
+DOMAIN-SUFFIX,interface.bilibili.com
+DOMAIN-SUFFIX,member.bilibili.com
+DOMAIN-SUFFIX,mall.bilibili.com
+DOMAIN-SUFFIX,show.bilibili.com
+DOMAIN-SUFFIX,api.game.bilibili.com
+DOMAIN-SUFFIX,live-trace.bilibili.com
+DOMAIN-SUFFIX,message.bilibili.com
+DOMAIN-SUFFIX,biligame.com
+DOMAIN-SUFFIX,api.vc.bilibili.com
+DOMAIN-SUFFIX,api.live.bilibili.com
+DOMAIN-SUFFIX,live.bilibili.com
+IP-CIDR,203.107.1.0/24
+IP-CIDR,117.169.96.0/24
+DOMAIN-SUFFIX,upos-hz-mirrorakam.akamaized.net
+# tieba
+DOMAIN-SUFFIX,tieba.baidu.com
+DOMAIN-SUFFIX,tiebac.baidu.com
+DOMAIN-SUFFIX,c.tieba.baidu.com
+DOMAIN-SUFFIX,api.map.baidu.com
+DOMAIN-SUFFIX,ossapi.baidu.com
+DOMAIN-SUFFIX,tiebac.baidu.com
+DOMAIN-SUFFIX,fclog.baidu.com
+DOMAIN-SUFFIX,gsp0.baidu.com
+DOMAIN-SUFFIX,hm.baidu.com
+DOMAIN-SUFFIX,www.baidu.com
+IP-CIDR,180.76.76.0/24
+# 知乎
+DOMAIN-SUFFIX,api.zhihu.com
+IP-CIDR,103.41.167.0/24
+# 起点
+DOMAIN-SUFFIX,druidv6.if.qidian.com
+DOMAIN-SUFFIX,ptlogin6.qidian.com
+# 酷安
+DOMAIN-SUFFIX,api.coolapk.com
+DOMAIN-SUFFIX,api2.coolapk.com
+# 小黑盒
+DOMAIN-SUFFIX,api.xiaoheihe.cn
+DOMAIN-SUFFIX,xiaohongshu.com
+
 # 代理列表
 DOMAIN-SUFFIX,1password.com
 DOMAIN-SUFFIX,adguard.org
