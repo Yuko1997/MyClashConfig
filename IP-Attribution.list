@@ -1,77 +1,52 @@
-  # IP-Attribution
-  - DOMAIN-SUFFIX,grpc.biliapi.net,Proxies
-  - DOMAIN-SUFFIX,biliapi.com,Proxies
-  - DOMAIN-SUFFIX,biliapi.net,Proxies
-  - DOMAIN-SUFFIX,api.bilibili.com,Proxies
-  - DOMAIN-SUFFIX,app.bilibili.com,Proxies
-  - DOMAIN-SUFFIX,passport.bilibili.com,Proxies
-  - DOMAIN-SUFFIX,passport.bilibili.cn,Proxies
-  - DOMAIN-SUFFIX,account.bilibili.com,Proxies
-  - DOMAIN-SUFFIX,club.bilibili.com,Proxies
-  - DOMAIN-SUFFIX,data.bilibili.com,Proxies
-  - DOMAIN-SUFFIX,biliimg.com,Proxies
-  - DOMAIN-SUFFIX,interface.bilibili.com,Proxies
-  - DOMAIN-SUFFIX,member.bilibili.com,Proxies
-  - DOMAIN-SUFFIX,mall.bilibili.com,Proxies
-  - DOMAIN-SUFFIX,show.bilibili.com,Proxies
-  - DOMAIN-SUFFIX,api.game.bilibili.com,Proxies
-  - DOMAIN-SUFFIX,live-trace.bilibili.com,Proxies
-  - DOMAIN-SUFFIX,message.bilibili.com,Proxies
-  - DOMAIN-SUFFIX,biligame.com,Proxies
-  - DOMAIN-SUFFIX,api.vc.bilibili.com,Proxies
-  - DOMAIN-SUFFIX,api.live.bilibili.com,Proxies
-  - DOMAIN-SUFFIX,live.bilibili.com,Proxies
-  # Web
-  #- DOMAIN-SUFFIX,www.bilibili.com,DIRECT
-  #- DOMAIN-SUFFIX,bilibili.com,Proxies
-  - IP-CIDR,203.107.1.0/24,Proxies
-  - IP-CIDR,117.169.96.0/24,Proxies
-  - DOMAIN-SUFFIX,upos-hz-mirrorakam.akamaized.net,Proxies
-  # KEY_EXT_P2P_HTTPDNS_BILI_IP
-  - IP-CIDR,47.101.175.206/32,REJECT
-  - IP-CIDR,47.100.123.169/32,REJECT
-  - IP-CIDR,120.46.169.234/32,REJECT
-  - IP-CIDR,121.36.72.124/32,REJECT
-  # KEY_EXT_P2P_BILIDNS_CMCC_IP
-  - IP-CIDR,116.63.10.135/32,REJECT
-  - IP-CIDR,122.9.7.134/32,REJECT
-  - IP-CIDR,117.185.228.108/32,REJECT
-  - IP-CIDR,117.144.238.29/32,REJECT
-  # KEY_EXT_P2P_BILIDNS_CT_IP
-  - IP-CIDR,122.9.13.79/32,REJECT
-  - IP-CIDR,122.9.15.129/32,REJECT
-  - IP-CIDR,101.91.140.224/32,REJECT
-  - IP-CIDR,101.91.140.124/32,REJECT
-  # KEY_EXT_P2P_BILIDNS_CU_IP
-  - IP-CIDR,114.116.215.110/32,REJECT
-  - IP-CIDR,116.63.10.31/32,REJECT
-  - IP-CIDR,112.64.218.119/32,REJECT
-  - IP-CIDR,112.65.200.117/32,REJECT
-  # tieba
-  - DOMAIN-SUFFIX,tieba.baidu.com,Proxies
-  - DOMAIN-SUFFIX,tiebac.baidu.com,Proxies
-  - DOMAIN-SUFFIX,c.tieba.baidu.com,Proxies
-  - DOMAIN-SUFFIX,api.map.baidu.com,Proxies
-  - DOMAIN-SUFFIX,ossapi.baidu.com,Proxies
-  - DOMAIN-SUFFIX,tiebac.baidu.com,Proxies
-  - DOMAIN-SUFFIX,fclog.baidu.com,Proxies
-  - DOMAIN-SUFFIX,gsp0.baidu.com,Proxies
-  - DOMAIN-SUFFIX,hm.baidu.com,Proxies
-  - DOMAIN-SUFFIX,www.baidu.com,Proxies
-  - IP-CIDR,180.76.76.0/24,Proxies
-  # 知乎
-  - DOMAIN-SUFFIX,api.zhihu.com,Proxies
-  - IP-CIDR,103.41.167.0/24,Proxies
-  - IP-CIDR,118.89.204.198/23,REJECT
-  # 起点
-  - DOMAIN-SUFFIX,druidv6.if.qidian.com,Proxies
-  - DOMAIN-SUFFIX,ptlogin6.qidian.com,Proxies
-  # 酷安
-  - DOMAIN-SUFFIX,api.coolapk.com,Proxies
-  - DOMAIN-SUFFIX,api2.coolapk.com,Proxies
-  # 小黑盒
-  - DOMAIN-SUFFIX,api.xiaoheihe.cn,Proxies
-  - DOMAIN-SUFFIX,xiaohongshu.com,Proxies
-  # 傻逼
-  - DOMAIN-KEYWORD,gjfzpt,REJECT
-  - IP-CIDR,219.143.187.136/24,REJECT
+
+# IP-Attribution
+DOMAIN-SUFFIX,grpc.biliapi.net
+DOMAIN-SUFFIX,biliapi.com
+DOMAIN-SUFFIX,biliapi.net
+DOMAIN-SUFFIX,api.bilibili.com
+DOMAIN-SUFFIX,app.bilibili.com
+DOMAIN-SUFFIX,passport.bilibili.com
+DOMAIN-SUFFIX,passport.bilibili.cn
+DOMAIN-SUFFIX,account.bilibili.com
+DOMAIN-SUFFIX,club.bilibili.com
+DOMAIN-SUFFIX,data.bilibili.com
+DOMAIN-SUFFIX,biliimg.com
+DOMAIN-SUFFIX,interface.bilibili.com
+DOMAIN-SUFFIX,member.bilibili.com
+DOMAIN-SUFFIX,mall.bilibili.com
+DOMAIN-SUFFIX,show.bilibili.com
+DOMAIN-SUFFIX,api.game.bilibili.com
+DOMAIN-SUFFIX,live-trace.bilibili.com
+DOMAIN-SUFFIX,message.bilibili.com
+DOMAIN-SUFFIX,biligame.com
+DOMAIN-SUFFIX,api.vc.bilibili.com
+DOMAIN-SUFFIX,api.live.bilibili.com
+DOMAIN-SUFFIX,live.bilibili.com
+IP-CIDR,203.107.1.0/24
+IP-CIDR,117.169.96.0/24
+DOMAIN-SUFFIX,upos-hz-mirrorakam.akamaized.net
+
+# tieba
+DOMAIN-SUFFIX,tieba.baidu.com
+DOMAIN-SUFFIX,tiebac.baidu.com
+DOMAIN-SUFFIX,c.tieba.baidu.com
+DOMAIN-SUFFIX,api.map.baidu.com
+DOMAIN-SUFFIX,ossapi.baidu.com
+DOMAIN-SUFFIX,tiebac.baidu.com
+DOMAIN-SUFFIX,fclog.baidu.com
+DOMAIN-SUFFIX,gsp0.baidu.com
+DOMAIN-SUFFIX,hm.baidu.com
+DOMAIN-SUFFIX,www.baidu.com
+IP-CIDR,180.76.76.0/24
+# 知乎
+DOMAIN-SUFFIX,api.zhihu.com
+IP-CIDR,103.41.167.0/24
+# 起点
+DOMAIN-SUFFIX,druidv6.if.qidian.com
+DOMAIN-SUFFIX,ptlogin6.qidian.com
+# 酷安
+DOMAIN-SUFFIX,api.coolapk.com
+DOMAIN-SUFFIX,api2.coolapk.com
+# 小黑盒
+DOMAIN-SUFFIX,api.xiaoheihe.cn
+DOMAIN-SUFFIX,xiaohongshu.com
