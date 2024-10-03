@@ -1,3 +1,12 @@
+# Download
+DOMAIN-SUFFIX,api.nexconvert.com
+DOMAIN-SUFFIX,download.nvidia.com
+DOMAIN-SUFFIX,cn.download.nvidia.com
+DOMAIN-SUFFIX,softwareupdate.vmware.com
+DOMAIN-SUFFIX,sharepoint.com
+DOMAIN-SUFFIX,ssl-lvlt.cdn.ea.com
+DOMAIN-SUFFIX,origin-a.akamaihd.net
+DOMAIN-SUFFIX,speedtest.cn
 DOMAIN-SUFFIX,gjacky.com
 DOMAIN-SUFFIX,egdownload.fastly-edge.com
 DOMAIN-SUFFIX,gpt4all.io
@@ -5,3 +14,21 @@ DOMAIN-SUFFIX.pytorch.org
 DOMAIN-SUFFIX,cdn-lfs.huggingface.co
 DOMAIN-SUFFIX,cdn-lfs-us-1.huggingface.co
 DOMAIN-SUFFIX,media.dds.lenovo.com
+DOMAIN-SUFFIX,huang1111.cn
+DOMAIN-SUFFIX,huang2728.sharepoint.com
+DOMAIN-SUFFIX,speedtest.im
+
+# Microsoft
+DOMAIN-SUFFIX,download.visualstudio.microsoft.com
+DOMAIN-SUFFIX,software.download.prss.microsoft.com
+DOMAIN-SUFFIX,dl.delivery.mp.microsoft.com
+DOMAIN-SUFFIX,download.microsoft.com
+
+# Epic
+DOMAIN-SUFFIX,download.epicgames.com
+DOMAIN-SUFFIX,fastly-download.epicgames.com
+DOMAIN-SUFFIX,cloudflare.epicgamescdn.com
+DOMAIN-SUFFIX,epicgames-download1.akamaized.net
+DOMAIN-SUFFIX,egdownload.fastly-edge.com,Download
+DOMAIN-SUFFIX,ol.akamaized.net
+DOMAIN-SUFFIX,myqcloud.com
