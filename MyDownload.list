@@ -28,6 +28,6 @@ DOMAIN-SUFFIX,download.epicgames.com
 DOMAIN-SUFFIX,fastly-download.epicgames.com
 DOMAIN-SUFFIX,cloudflare.epicgamescdn.com
 DOMAIN-SUFFIX,epicgames-download1.akamaized.net
-DOMAIN-SUFFIX,egdownload.fastly-edge.com,Download
+DOMAIN-SUFFIX,egdownload.fastly-edge.com
 DOMAIN-SUFFIX,ol.akamaized.net
 DOMAIN-SUFFIX,myqcloud.com
