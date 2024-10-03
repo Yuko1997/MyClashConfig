@@ -2,6 +2,14 @@ DST-PORT,6969
 DST-PORT,1337
 SRC-PORT,12007
 # Steam
+DOMAIN-SUFFIX,cdn-ali.content.steamchina.com
+DOMAIN-SUFFIX,cdn-qc.content.steamchina.com
+DOMAIN-SUFFIX,cdn-ws.content.steamchina.com
+DOMAIN-SUFFIX,dl.steam.clngaa.com
+DOMAIN-SUFFIX,dl.steam.ksyna.com
+DOMAIN-SUFFIX,st.dl.bscstorage.net
+DOMAIN-SUFFIX,st.dl.eccdnx.com
+DOMAIN-SUFFIX,st.dl.pinyuncloud.com
 DOMAIN-SUFFIX,test.steampowered.com
 DOMAIN-SUFFIX,steamstatic.com
 DOMAIN-SUFFIX,steamserver.net
