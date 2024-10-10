@@ -1,5 +1,5 @@
 # SB
-DOMAIN-KEYWORD,gjfzpt
+DOMAIN-KEYWORD,gjfzp
 
 # NAME: BlockHttpDNS
 IP-CIDR,101.124.19.122/32,no-resolve
@@ -493,12 +493,9 @@ DOMAIN-KEYWORD,adservice
 DOMAIN-KEYWORD,adv.ccb.com
 DOMAIN-KEYWORD,asewlfjqwlflkew
 DOMAIN-KEYWORD,asiad.byteactivity
-DOMAIN-KEYWORD,bngpt
 DOMAIN-KEYWORD,bongacash
 DOMAIN-KEYWORD,brushshopy
-DOMAIN-KEYWORD,dat8
 DOMAIN-KEYWORD,dfkj8
-DOMAIN-KEYWORD,dlads
 DOMAIN-KEYWORD,dtscout
 DOMAIN-KEYWORD,e2wysbacctt1
 DOMAIN-KEYWORD,exosrv
@@ -507,20 +504,10 @@ DOMAIN-KEYWORD,haowanyou
 DOMAIN-KEYWORD,histats
 DOMAIN-KEYWORD,hoisin.coocaa.com
 DOMAIN-KEYWORD,hoisin.coocaatv.com
-DOMAIN-KEYWORD,httpdns-
-DOMAIN-KEYWORD,httpdns.
 DOMAIN-KEYWORD,in-page-push
-DOMAIN-KEYWORD,jads
-DOMAIN-KEYWORD,juruigj
 DOMAIN-KEYWORD,kc.saigmpl.com
 DOMAIN-KEYWORD,kcc.fwxhvvd.com
 DOMAIN-KEYWORD,kg.oiocklg.com
-DOMAIN-KEYWORD,lieyou
-DOMAIN-KEYWORD,mathtag
-DOMAIN-KEYWORD,mdapp09
-DOMAIN-KEYWORD,mifengv
-DOMAIN-KEYWORD,o333o
-DOMAIN-KEYWORD,onenews
 DOMAIN-KEYWORD,pagespeed-mod
 DOMAIN-KEYWORD,pangolin-sdk-toutiao
 DOMAIN-KEYWORD,pangolin.snssdk.com
@@ -529,12 +516,9 @@ DOMAIN-KEYWORD,safebrowsing.
 DOMAIN-KEYWORD,stsdk.vivo.com.cn
 DOMAIN-KEYWORD,stsdk.vivoglobal.com
 DOMAIN-KEYWORD,stunninglover
-DOMAIN-KEYWORD,toateeli
 DOMAIN-KEYWORD,trace.qq.com
 DOMAIN-KEYWORD,trace.video.qq.com
-DOMAIN-KEYWORD,trwl1
 DOMAIN-KEYWORD,video-cn.snssdk.com
-DOMAIN-KEYWORD,xxshuyuan
 DOMAIN-SUFFIX,002777.xyz
 DOMAIN-SUFFIX,003store.com
 DOMAIN-SUFFIX,01v62.xyz
