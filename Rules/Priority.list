@@ -17,8 +17,6 @@ DOMAIN-SUFFIX,steamusercontent-a.akamaihd.net
 IP-CIDR,103.28.54.0/24
 
 # Others
-DOMAIN-SUFFIX,nhentai.com
-DOMAIN-SUFFIX,9hentai.com
 DOMAIN-SUFFIX,www.qiqiboke.com
 DOMAIN-SUFFIX,xgmenu.love
 DOMAIN-SUFFIX,jamcz.com
