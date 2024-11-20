@@ -58,6 +58,15 @@ DOMAIN-KEYWORD,twitter
 DOMAIN-KEYWORD,whatsapp
 DOMAIN-KEYWORD,youtube
 
+# PUBG Mobile
+DOMAIN-SUFFIX,igamecj.com
+DOMAIN-SUFFIX,amsoveasea.com
+DOMAIN-SUFFIX,gpubgm.com
+DOMAIN-SUFFIX,vasdgame.com
+DOMAIN-SUFFIX,playerinfinite.com
+DST-PORT,17000
+DST-PORT,17500
+
 # GFW list
 DOMAIN-SUFFIX,gfwlist.start
 DOMAIN-SUFFIX,000webhost.com
