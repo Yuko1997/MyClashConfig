@@ -18,11 +18,3 @@ DOMAIN-SUFFIX,rockstargames.com
 DOMAIN-SUFFIX,s.rsg.sc
 # Raft
 #IP-CIDR,26.253.117.0/24
-# PUBG Mobile
-DOMAIN-SUFFIX,igamecj.com
-DOMAIN-SUFFIX,amsoveasea.com
-DOMAIN-SUFFIX,gpubgm.com
-DOMAIN-SUFFIX,vasdgame.com
-DOMAIN-SUFFIX,playerinfinite.com
-DST-PORT,17000
-DST-PORT,17500
