@@ -50,3 +50,8 @@ DOMAIN-SUFFIX,api2.coolapk.com
 # 小黑盒
 DOMAIN-SUFFIX,api.xiaoheihe.cn
 DOMAIN-SUFFIX,xiaohongshu.com
+
+# Steam CDN
+DOMAIN-SUFFIX,fastly.steamstatic.com
+DOMAIN-SUFFIX,cdn.steamstatic.com
+DOMAIN-SUFFIX,cloudflare.steamstatic.com
