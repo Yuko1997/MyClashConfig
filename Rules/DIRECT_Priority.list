@@ -16,6 +16,12 @@ DOMAIN-SUFFIX,steamserver.net
 DOMAIN-SUFFIX,steamusercontent-a.akamaihd.net
 IP-CIDR,103.28.54.0/24
 
+#Epic
+DOMAIN-SUFFIX,api.epicgames.dev
+DOMAIN-SUFFIX,ol.epicgames.com
+DOMAIN-SUFFIX,connect.epicgames.dev
+DOMAIN-SUFFIX,store.epicgames.com
+
 # Others
 DOMAIN-SUFFIX,www.qiqiboke.com
 DOMAIN-SUFFIX,www.wigyyds.com
