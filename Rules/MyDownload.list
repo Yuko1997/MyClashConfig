@@ -12,6 +12,7 @@ DOMAIN-SUFFIX,egdownload.fastly-edge.com
 DOMAIN-SUFFIX,gpt4all.io
 DOMAIN-SUFFIX,cdn-lfs.huggingface.co
 DOMAIN-SUFFIX,cdn-lfs-us-1.huggingface.co
+DOMAIN-SUFFIX,cdn-lfs-us-1.hf.co
 DOMAIN-SUFFIX,media.dds.lenovo.com
 DOMAIN-SUFFIX,huang1111.cn
 DOMAIN-SUFFIX,huang2728.sharepoint.com
