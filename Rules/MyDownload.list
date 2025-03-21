@@ -11,16 +11,19 @@ DOMAIN-SUFFIX,origin-a.akamaihd.net
 DOMAIN-SUFFIX,speedtest.cn
 DOMAIN-SUFFIX,gjacky.com
 DOMAIN-SUFFIX,egdownload.fastly-edge.com
-DOMAIN-SUFFIX,gpt4all.io
-DOMAIN-SUFFIX,cdn-lfs.hf.co
-DOMAIN-SUFFIX,cdn-lfs.huggingface.co
-DOMAIN-SUFFIX,cdn-lfs-us-1.huggingface.co
-DOMAIN-SUFFIX,cdn-lfs-us-1.hf.co
 DOMAIN-SUFFIX,media.dds.lenovo.com
 DOMAIN-SUFFIX,huang1111.cn
 DOMAIN-SUFFIX,huang2728.sharepoint.com
 DOMAIN-SUFFIX,speedtest.im
 DOMAIN-SUFFIX,releases.ubuntu.com
+
+# AI
+DOMAIN-SUFFIX,gpt4all.io
+DOMAIN-SUFFIX,cdn-lfs.hf.co
+DOMAIN-SUFFIX,cdn-lfs.huggingface.co
+DOMAIN-SUFFIX,cdn-lfs-us-1.huggingface.co
+DOMAIN-SUFFIX,cdn-lfs-us-1.hf.co
+DOMAIN-SUFFIX,cdn-lfs-us-1.hf-mirror.com
 
 # Microsoft
 DOMAIN-SUFFIX,download.visualstudio.microsoft.com
