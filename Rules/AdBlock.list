@@ -2,7 +2,7 @@
 DOMAIN-KEYWORD,gjfzp
 
 # Kas Update
-DOMAIN,dm.s.kaspersky-labs.com
+#DOMAIN,dm.s.kaspersky-labs.com
 
 # NAME: BlockHttpDNS
 IP-CIDR,101.124.19.122/32,no-resolve
