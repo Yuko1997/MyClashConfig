@@ -1,8 +1,13 @@
-# SB
-DOMAIN-KEYWORD,gjfzp
+#国家反诈中心
+DOMAIN-SUFFIX-KEYWORD,gjfzp
+DOMAIN-SUFFIX,fzapp-test-tyy.gjfzpt.cn
+DOMAIN-SUFFIX,oss.gjfzpt.cn
+DOMAIN-SUFFIX,fzapp.gjfzpt.cn
+DOMAIN-SUFFIX,gjfzpt.cn
+DOMAIN-SUFFIX,fzapph5.gjfzpt.cn
 
 # Kas Update
-#DOMAIN,dm.s.kaspersky-labs.com
+#DOMAIN-SUFFIX,dm.s.kaspersky-labs.com
 
 # NAME: BlockHttpDNS
 IP-CIDR,101.124.19.122/32,no-resolve
@@ -64,7 +69,7 @@ IP-CIDR,118.89.204.198/23,no-resolve
 IP-CIDR,219.143.187.136/24,no-resolve
 
 # NAME: ZhihuAds
-DOMAIN,appcloud2.in.zhihu.com
-DOMAIN,mqtt.zhihu.com
-DOMAIN,sugar.zhihu.com
+DOMAIN-SUFFIX,appcloud2.in.zhihu.com
+DOMAIN-SUFFIX,mqtt.zhihu.com
+DOMAIN-SUFFIX,sugar.zhihu.com
 IP-CIDR,118.89.204.198/32,no-resolve
