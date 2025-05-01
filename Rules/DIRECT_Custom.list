@@ -16,6 +16,7 @@ DOMAIN-SUFFIX,test.steampowered.com
 DOMAIN-SUFFIX,steamstatic.com
 DOMAIN-SUFFIX,steamserver.net
 DOMAIN-SUFFIX,steamusercontent-a.akamaihd.net
+DOMAIN-SUFFIX,images.steamusercontent.com
 IP-CIDR,103.28.54.0/24
 
 #Epic
