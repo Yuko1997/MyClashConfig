@@ -27,7 +27,7 @@ DOMAIN-SUFFIX,connect.epicgames.dev
 DOMAIN-SUFFIX,store.epicgames.com
 
 # INFINI
-DOMAIN-SUFFIX,infini.money
+# DOMAIN-SUFFIX,infini.money
 
 # Others
 DOMAIN-SUFFIX,www.qiqiboke.com
