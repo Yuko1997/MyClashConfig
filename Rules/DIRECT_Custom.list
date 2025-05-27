@@ -19,12 +19,15 @@ DOMAIN-SUFFIX,steamusercontent-a.akamaihd.net
 DOMAIN-SUFFIX,images.steamusercontent.com
 IP-CIDR,103.28.54.0/24
 
-#Epic
+# Epic
 DOMAIN-SUFFIX,api.epicgames.dev
 DOMAIN-SUFFIX,ol.epicgames.com
 DOMAIN-SUFFIX,on.epicgames.com
 DOMAIN-SUFFIX,connect.epicgames.dev
 DOMAIN-SUFFIX,store.epicgames.com
+
+# INFINI
+DOMAIN-SUFFIX,infini.money
 
 # Others
 DOMAIN-SUFFIX,www.qiqiboke.com
