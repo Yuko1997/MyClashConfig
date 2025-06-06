@@ -38,3 +38,11 @@ DOMAIN-KEYWORD,spotify
 IP-CIDR,104.154.127.126/32,no-resolve
 IP-CIDR,35.186.224.47/32,no-resolve
 PROCESS-NAME,com.spotify.music
+
+# Misc
+DOMAIN-SUFFIX,xtibo.com
+DOMAIN-SUFFIX,api.ip2location.io
+DOMAIN-SUFFIX,ip-api.io
+DOMAIN-SUFFIX,ipapi.co
+
+
