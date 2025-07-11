@@ -22,7 +22,7 @@ DOMAIN-SUFFIX,biligame.com
 # DOMAIN-SUFFIX,api.vc.bilibili.com
 # DOMAIN-SUFFIX,api.live.bilibili.com
 # DOMAIN-SUFFIX,live.bilibili.com
-IP-CIDR,203.107.1.0/24
+# IP-CIDR,203.107.1.0/24
 DOMAIN-SUFFIX,upos-hz-mirrorakam.akamaized.net
 
 # tieba
