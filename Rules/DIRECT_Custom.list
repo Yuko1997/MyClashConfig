@@ -89,5 +89,8 @@ URL-REGEX,(Subject|HELO|SMTP)
 # > UBI
 DOMAIN,uplaypc-s-ubisoft.cdn.ubi.com
 
+# Zerotier
+PROCESS-NAME,zerotier-one
+
 # > Tailscale
 IP-CIDR,100.64.0.0/10,no-resolve
