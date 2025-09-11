@@ -6,8 +6,8 @@ DOMAIN-SUFFIX,fzapp.gjfzpt.cn
 DOMAIN-SUFFIX,gjfzpt.cn
 DOMAIN-SUFFIX,fzapph5.gjfzpt.cn
 
-# Kas Update
-#DOMAIN-SUFFIX,dm.s.kaspersky-labs.com
+# YouTube Quic UDP Port 443
+AND,((NETWORK,UDP),(DST-PORT,443),(GEOSITE,youtube))
 
 # NAME: BlockHttpDNS
 IP-CIDR,101.124.19.122/32,no-resolve
