@@ -6,6 +6,12 @@ DOMAIN-SUFFIX,fzapp.gjfzpt.cn
 DOMAIN-SUFFIX,gjfzpt.cn
 DOMAIN-SUFFIX,fzapph5.gjfzpt.cn
 
+# P2P Bloodsucking
+IP-CIDR,36.250.0.0/16,AdBlock,no-resolve
+IP-CIDR,101.69.0.0/16,AdBlock,no-resolve
+IP-CIDR,101.70.0.0/16,AdBlock,no-resolve
+IP-CIDR,123.156.68.0/24,AdBlock,no-resolve
+
 # YouTube Quic UDP Port 443
 AND,((NETWORK,UDP),(DST-PORT,443),(GEOSITE,youtube))
 
