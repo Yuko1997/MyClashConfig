@@ -54,3 +54,5 @@ DOMAIN-SUFFIX,xiaohongshu.com
 DOMAIN-SUFFIX,fastly.steamstatic.com
 DOMAIN-SUFFIX,cdn.steamstatic.com
 DOMAIN-SUFFIX,cloudflare.steamstatic.com
+DOMAIN-SUFFIX,shared.akamai.steamstatic.com
+DOMAIN-SUFFIX,cdn.akamai.steamstatic.com
