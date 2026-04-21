@@ -1,6 +1,9 @@
 payload:
+  # E-hantai
   - DOMAIN-SUFFIX,ehgt.org
   - DOMAIN-SUFFIX,hath.network
+
+  # ***
   - DOMAIN-SUFFIX,18comic.vip
   - DOMAIN-SUFFIX,200900.xyz
   - DOMAIN-SUFFIX,3movs.com
