@@ -1,5 +1,5 @@
 payload:
-  - DOMAIN-SUFFIX,api.nexconvert.com
+  # Download
   - DOMAIN-SUFFIX,download.nvidia.com
   - DOMAIN-SUFFIX,cn.download.nvidia.com
   - DOMAIN-SUFFIX,developer.nvidia.com
@@ -16,17 +16,23 @@ payload:
   - DOMAIN-SUFFIX,huang2728.sharepoint.com
   - DOMAIN-SUFFIX,speedtest.im
   - DOMAIN-SUFFIX,releases.ubuntu.com
+
+  # AI
   - DOMAIN-SUFFIX,gpt4all.io
   - DOMAIN-SUFFIX,cdn-lfs.hf.co
   - DOMAIN-SUFFIX,cdn-lfs.huggingface.co
   - DOMAIN-SUFFIX,cdn-lfs-us-1.huggingface.co
   - DOMAIN-SUFFIX,cdn-lfs-us-1.hf.co
   - DOMAIN-SUFFIX,cdn-lfs-us-1.hf-mirror.com
+
+  # Microsoft
   - DOMAIN-SUFFIX,download.visualstudio.microsoft.com
   - DOMAIN-SUFFIX,software.download.prss.microsoft.com
   - DOMAIN-SUFFIX,dl.delivery.mp.microsoft.com
   - DOMAIN-SUFFIX,download.microsoft.com
   - DOMAIN-SUFFIX,cdn.office.net
+
+  # Epic
   - DOMAIN-SUFFIX,download.epicgames.com
   - DOMAIN-SUFFIX,fastly-download.epicgames.com
   - DOMAIN-SUFFIX,cloudflare.epicgamescdn.com
