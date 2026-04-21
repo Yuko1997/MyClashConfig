@@ -68,6 +68,7 @@ payload:
   - DOMAIN-SUFFIX,claude.ai
 
 # NAME: Gemini
+  - DOMAIN,gemini.gstatic.com
   - DOMAIN,ai.google.dev
   - DOMAIN,alkalimakersuite-pa.clients6.google.com
   - DOMAIN,makersuite.google.com
