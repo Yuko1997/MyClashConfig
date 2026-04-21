@@ -1,15 +1,21 @@
 payload:
   - AND,((NETWORK,UDP),(DST-PORT,443),(GEOSITE,youtube))
+
+  #国家反诈中心
   - DOMAIN-KEYWORD,gjfzp
   - DOMAIN-SUFFIX,fzapp-test-tyy.gjfzpt.cn
   - DOMAIN-SUFFIX,oss.gjfzpt.cn
   - DOMAIN-SUFFIX,fzapp.gjfzpt.cn
   - DOMAIN-SUFFIX,gjfzpt.cn
   - DOMAIN-SUFFIX,fzapph5.gjfzpt.cn
+
+  # P2P Bloodsucking
   - IP-CIDR,36.250.0.0/16
   - IP-CIDR,101.69.0.0/16
   - IP-CIDR,101.70.0.0/16
   - IP-CIDR,123.156.68.0/24
+
+  # NAME: BlockHttpDNS
   - IP-CIDR,101.124.19.122/32
   - IP-CIDR,101.91.140.124/32
   - IP-CIDR,101.91.140.224/32
@@ -62,6 +68,8 @@ payload:
   - IP-CIDR,112.65.200.117/32
   - IP-CIDR,118.89.204.198/23
   - IP-CIDR,219.143.187.136/24
+
+  # NAME: ZhihuAds
   - DOMAIN-SUFFIX,appcloud2.in.zhihu.com
   - DOMAIN-SUFFIX,mqtt.zhihu.com
   - DOMAIN-SUFFIX,sugar.zhihu.com
