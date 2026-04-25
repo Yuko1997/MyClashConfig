@@ -16,6 +16,7 @@ payload:
   - DOMAIN-SUFFIX,huang2728.sharepoint.com
   - DOMAIN-SUFFIX,speedtest.im
   - DOMAIN-SUFFIX,releases.ubuntu.com
+  - DOMAIN-SUFFIX,dm.s.kaspersky-labs.com
 
   # AI
   - DOMAIN-SUFFIX,gpt4all.io
