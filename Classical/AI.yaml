@@ -20,6 +20,7 @@ payload:
   - DOMAIN-SUFFIX,auth0.com
   - DOMAIN-SUFFIX,bing-shopping.microsoft-falcon.io
   - DOMAIN-SUFFIX,challenges.cloudflare.com
+  - DOMAIN-SUFFIX,githubcopilot.com
 
 # NAME: OpenAI
   - DOMAIN,browser-intake-datadoghq.com
