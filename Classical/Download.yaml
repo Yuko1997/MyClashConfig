@@ -4,6 +4,7 @@ payload:
   - DOMAIN-SUFFIX,cn.download.nvidia.com
   - DOMAIN-SUFFIX,developer.nvidia.com
   - DOMAIN-SUFFIX,download.pytorch.org
+  - DOMAIN-SUFFIX,download-r2.pytorch.org
   - DOMAIN-SUFFIX,softwareupdate.vmware.com
   - DOMAIN-SUFFIX,sharepoint.com
   - DOMAIN-SUFFIX,ssl-lvlt.cdn.ea.com
