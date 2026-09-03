@@ -27,6 +27,8 @@ payload:
   - DOMAIN-SUFFIX,cdn-lfs-us-1.huggingface.co
   - DOMAIN-SUFFIX,cdn-lfs-us-1.hf.co
   - DOMAIN-SUFFIX,cdn-lfs-us-1.hf-mirror.com
+  - DOMAIN-SUFFIX,cdn.hf.co
+  - DOMAIN-SUFFIX,xethub.hf.co
 
   # Microsoft
   - DOMAIN-SUFFIX,download.visualstudio.microsoft.com
