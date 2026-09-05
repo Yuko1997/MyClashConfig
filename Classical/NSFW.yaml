@@ -2,7 +2,9 @@ payload:
   # E-hantai
   - DOMAIN-SUFFIX,ehgt.org
   - DOMAIN-SUFFIX,hath.network
-
+  # Hitomi
+  - DOMAIN-SUFFIX,gold-usergeneratedcontent.net
+  
   # ***
   - DOMAIN-SUFFIX,18comic.vip
   - DOMAIN-SUFFIX,200900.xyz
