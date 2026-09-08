@@ -86,3 +86,6 @@ payload:
   - DOMAIN-KEYWORD,colab
   - DOMAIN-KEYWORD,developerprofiles
   - DOMAIN-KEYWORD,generativelanguage
+
+# Opencode
+  - DOMAIN-SUFFIX,opencode.ai
