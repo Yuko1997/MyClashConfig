@@ -89,3 +89,6 @@ payload:
 
 # Opencode
   - DOMAIN-SUFFIX,opencode.ai
+
+# Command
+  - DOMAIN-SUFFIX,api.commandcode.ai
