@@ -58,6 +58,7 @@ payload:
   - DOMAIN-KEYWORD,openai
   - IP-CIDR,24.199.123.28/32,no-resolve
   - IP-CIDR,64.23.132.171/32,no-resolve
+  - IP-CIDR,104.18.33.0/24
   - IP-ASN,20473,no-resolve
 
 # Grok
